@@ -1,5 +1,11 @@
 # CEF：Agent参与完整算法设计的项目与当前实验说明
 
+> **已补充当前核心代码和第1轮完整轨迹。**
+> - [代码与轨迹阅读／解包指南](docs/CODE_AND_TRACE_GUIDE_ZH.md)
+> - [当前运行入口](code/0921/runCEFAuto.py) · [完整交替主流程](code/0921/cef/alternating.py)
+> - 克隆后执行 `python tools/unpack_round1.py`，校验并解压全部第1轮记录。
+> - [逐文件版本与校验清单](manifests/EXPORT_MANIFEST.json)
+
 **用途：交给未看过代码的Agent／算法设计专家，分析现有框架的机制、工程实现、实验效果与资源开销。**
 
 **状态截点：2026年11月11日16:15:51，北京时间。** 第1轮已完成并测过TSPLIB29；第2轮仍在运行。本文是该时间点的静态说明，不代表第2轮最终结果。
