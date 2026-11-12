@@ -1,8 +1,8 @@
 """Verify and unpack the full two-round evidence snapshot (Python standard library)."""
-import hashlib,json,os,sys,tempfile,zipfile
+import gzip,hashlib,json,os,sys,tempfile,zipfile
 from pathlib import Path
 root=Path(__file__).resolve().parent
-manifest=json.loads((root/'manifest.json').read_text(encoding='utf-8'))
+manifest=json.loads(gzip.decompress((root/'manifest.json.gz').read_bytes()).decode('utf-8'))
 dest=Path(sys.argv[1] if len(sys.argv)>1 else 'two_rounds_20261112').resolve()
 if dest.exists() and any(dest.iterdir()):raise SystemExit('Destination must be empty')
 whole=hashlib.sha256()

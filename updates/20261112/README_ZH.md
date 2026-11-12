@@ -18,7 +18,7 @@ python updates/20261112/unpack.py
 - 当前代码与历史代码要分开看：两轮各自的 `search/runtime_snapshot`，以及接续目录 `search/runtime_snapshot_round1` 和 `continuation_provenance.json` 说明版本变更。
 - 仓库早先的根目录 `code/0921` 和旧归档属于11月11日历史交付，本次以 `updates/20261112` 为入口。
 
-`manifest.json` 提供每个导出文件、分片及整体ZIP的SHA256。凭据仅在导出副本中遮盖，原记录不改；vendor二进制、环境密钥、锁和临时缓存不发布。依赖版本参照各轮配置 environment_manifest；需要独立安装 NumPy、OpenAI SDK、httpx、PySCIPOpt/SCIP。测试和源码均包含。
+`manifest.json.gz` 提供每个导出文件、分片及整体ZIP的SHA256。凭据仅在导出副本中遮盖，原记录不改；vendor二进制、环境密钥、锁和临时缓存不发布。依赖版本参照各轮配置 environment_manifest；需要独立安装 NumPy、OpenAI SDK、httpx、PySCIPOpt/SCIP。测试和源码均包含。
 
 ## 已核实结果
 
