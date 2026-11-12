@@ -1,0 +1,267 @@
+{
+  "run": "C:\\Users\\48520\\Desktop\\eohagent\\0921\\experiments\\cef_focused_tasks\\tsp_s2025_20261112_004712_425467",
+  "test_mean_gap_pct": 0.19723526893396992,
+  "baseline_mean_gap_pct": 0.20560571339134665,
+  "changed_cases": [
+    {
+      "instance": "berlin52",
+      "baseline_gap_pct": 0.031369688465754386,
+      "new_gap_pct": 0.031369688465754386,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "bier127",
+      "baseline_gap_pct": 0.009742662171507988,
+      "new_gap_pct": 0.009742662171485783,
+      "difference_pp": -2.220446049250313e-14
+    },
+    {
+      "instance": "ch130",
+      "baseline_gap_pct": 0.011819968341342246,
+      "new_gap_pct": 0.011819968341320042,
+      "difference_pp": -2.220446049250313e-14
+    },
+    {
+      "instance": "ch150",
+      "baseline_gap_pct": 0.04446571464753468,
+      "new_gap_pct": 0.04446571464753468,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "d198",
+      "baseline_gap_pct": 0.2986669420278032,
+      "new_gap_pct": 0.2757413716177215,
+      "difference_pp": -0.022925570410081697
+    },
+    {
+      "instance": "eil101",
+      "baseline_gap_pct": 1.8158825674658319,
+      "new_gap_pct": 1.7824468807250637,
+      "difference_pp": -0.033435686740768134
+    },
+    {
+      "instance": "eil51",
+      "baseline_gap_pct": 0.6741212187872936,
+      "new_gap_pct": 0.6741212187873158,
+      "difference_pp": 2.220446049250313e-14
+    },
+    {
+      "instance": "eil76",
+      "baseline_gap_pct": 1.1838387863993383,
+      "new_gap_pct": 1.1838387863993605,
+      "difference_pp": 2.220446049250313e-14
+    },
+    {
+      "instance": "kroA100",
+      "baseline_gap_pct": 0.016178843957681543,
+      "new_gap_pct": 0.016178843957681543,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "kroA150",
+      "baseline_gap_pct": 0.0032537938656096443,
+      "new_gap_pct": 0.0032537938656096443,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "kroA200",
+      "baseline_gap_pct": 0.051909086713641805,
+      "new_gap_pct": 0.004791088083244688,
+      "difference_pp": -0.04711799863039712
+    },
+    {
+      "instance": "kroB100",
+      "baseline_gap_pct": -0.00869601575760326,
+      "new_gap_pct": -0.008696015757625464,
+      "difference_pp": -2.220446049250313e-14
+    },
+    {
+      "instance": "kroB150",
+      "baseline_gap_pct": -0.008758022663091225,
+      "new_gap_pct": -0.010111409335633592,
+      "difference_pp": -0.0013533866725423671
+    },
+    {
+      "instance": "kroB200",
+      "baseline_gap_pct": 0.23051934292661613,
+      "new_gap_pct": 0.011591604525840182,
+      "difference_pp": -0.21892773840077595
+    },
+    {
+      "instance": "kroC100",
+      "baseline_gap_pct": 0.008494403043646237,
+      "new_gap_pct": 0.008494403043646237,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "kroD100",
+      "baseline_gap_pct": 0.001365743826187149,
+      "new_gap_pct": 0.0013657438262093535,
+      "difference_pp": 2.220446049250313e-14
+    },
+    {
+      "instance": "kroE100",
+      "baseline_gap_pct": 0.0034378709248938932,
+      "new_gap_pct": 0.0034378709249160977,
+      "difference_pp": 2.220446049250313e-14
+    },
+    {
+      "instance": "lin105",
+      "baseline_gap_pct": 0.027790065033594935,
+      "new_gap_pct": 0.02779006503357273,
+      "difference_pp": -2.220446049250313e-14
+    },
+    {
+      "instance": "pr107",
+      "baseline_gap_pct": -0.002971182966959862,
+      "new_gap_pct": -0.002971182966959862,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "pr124",
+      "baseline_gap_pct": 0.0012463204838830677,
+      "new_gap_pct": 0.0012463204838608632,
+      "difference_pp": -2.220446049250313e-14
+    },
+    {
+      "instance": "pr136",
+      "baseline_gap_pct": -0.0011117656789516595,
+      "new_gap_pct": -0.001111765678929455,
+      "difference_pp": 2.220446049250313e-14
+    },
+    {
+      "instance": "pr144",
+      "baseline_gap_pct": -0.00303780280478394,
+      "new_gap_pct": -0.0030378028047950423,
+      "difference_pp": -1.1102230246251565e-14
+    },
+    {
+      "instance": "pr152",
+      "baseline_gap_pct": 0.002226632872370793,
+      "new_gap_pct": 0.0022266328723485884,
+      "difference_pp": -2.220446049250313e-14
+    },
+    {
+      "instance": "pr76",
+      "baseline_gap_pct": 0.0004052128234066643,
+      "new_gap_pct": 0.0004052128234066643,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "rat195",
+      "baseline_gap_pct": 0.5824111552453992,
+      "new_gap_pct": 0.6634286468361505,
+      "difference_pp": 0.08101749159075133
+    },
+    {
+      "instance": "rat99",
+      "baseline_gap_pct": 0.6807406009658346,
+      "new_gap_pct": 0.6807406009658346,
+      "difference_pp": 0.0
+    },
+    {
+      "instance": "rd100",
+      "baseline_gap_pct": 0.005008978697929045,
+      "new_gap_pct": 0.005008978697884636,
+      "difference_pp": -4.440892098500626e-14
+    },
+    {
+      "instance": "st70",
+      "baseline_gap_pct": 0.3125347073847484,
+      "new_gap_pct": 0.3125347073847262,
+      "difference_pp": -2.220446049250313e-14
+    },
+    {
+      "instance": "u159",
+      "baseline_gap_pct": -0.01028982885140639,
+      "new_gap_pct": -0.010289828851417493,
+      "difference_pp": -1.1102230246251565e-14
+    }
+  ],
+  "task_stats": [
+    {
+      "task": "rounds\\001\\data\\agent_task\\session\\facts.jsonl",
+      "minutes": 68.09781088829041,
+      "responses": 186,
+      "calls": {
+        "read_artifact": 33,
+        "run_python": 121,
+        "write_file": 20,
+        "measure_data_candidate": 16,
+        "update_research": 6,
+        "submit_candidate": 1
+      },
+      "tool_seconds": {
+        "read_artifact": 0.0694580078125,
+        "run_python": 187.47924900054932,
+        "write_file": 0.07509255409240723,
+        "measure_data_candidate": 3024.343505859375,
+        "update_research": 3.8800816535949707,
+        "submit_candidate": 26.52782154083252
+      },
+      "context_restarts": 4
+    },
+    {
+      "task": "search\\agent_tasks\\step_0_editor\\session\\facts.jsonl",
+      "minutes": 5.218871605396271,
+      "responses": 20,
+      "calls": {
+        "read_artifact": 10,
+        "run_python": 12,
+        "compare_sources": 2,
+        "submit_candidate": 1
+      },
+      "tool_seconds": {
+        "read_artifact": 0.016642332077026367,
+        "run_python": 14.93988847732544,
+        "compare_sources": 143.7163097858429,
+        "submit_candidate": 0.018978118896484375
+      },
+      "context_restarts": 0
+    },
+    {
+      "task": "search\\agent_tasks\\step_0_planner\\session\\facts.jsonl",
+      "minutes": 15.112662573655447,
+      "responses": 45,
+      "calls": {
+        "read_artifact": 8,
+        "run_python": 28,
+        "write_file": 3,
+        "update_research": 3,
+        "compare_sources": 1,
+        "submit_candidate": 4
+      },
+      "tool_seconds": {
+        "read_artifact": 0.015389204025268555,
+        "run_python": 123.53387928009033,
+        "write_file": 0.011004924774169922,
+        "update_research": 0.01822662353515625,
+        "compare_sources": 109.59752011299133,
+        "submit_candidate": 0.08484649658203125
+      },
+      "context_restarts": 0
+    }
+  ],
+  "billing": {
+    "usage": {
+      "requests": 251,
+      "known_input_tokens": 32897548,
+      "known_cached_input_tokens": 31819904,
+      "known_output_tokens": 210334,
+      "known_total_tokens": 33107882,
+      "total_tokens": 33107882,
+      "unknown_usage_requests": 0,
+      "provider_reported_cost": null,
+      "cost_note": "Generation API returns usage, not an authoritative per-request debit amount."
+    },
+    "account_balance_changes": [
+      {
+        "currency": "CNY",
+        "balance_decrease": "2.55",
+        "scope": "account-wide balance change, not per-request invoice"
+      }
+    ],
+    "authoritative_per_request_debit": null,
+    "scope": "Cumulative provider usage; account change covers this invocation and may include other activity."
+  }
+}

@@ -1,0 +1,4 @@
+numpy==1.26.4
+openai==1.109.1
+httpx==0.28.1
+pyscipopt==6.3.0

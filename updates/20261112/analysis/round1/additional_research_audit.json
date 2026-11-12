@@ -1,0 +1,18 @@
+{
+  "same_candidate": true,
+  "same_plan": true,
+  "same_rules": true,
+  "unique_cases": 64,
+  "conditions_match": true,
+  "old_mean": 0.02204356391589963,
+  "complete_mean": 0.05741307208456444,
+  "single_call_counts": [
+    15,
+    49
+  ],
+  "performance_preference_passed": true,
+  "extra_minutes": 55.68659572998683,
+  "old_checkpoint_source": "213122de397aa596b51173cee5cf7ade128d9fc8115bd9a64e9a11b254193389",
+  "later_working_source": "106478c64e6570502e6fae3646badc9edfd51d03dabd50d8991df2bb7a15bbbb",
+  "later_working_subset_mean": 0.001968343639232225
+}
